@@ -1,0 +1,10 @@
+[08-24|11:55:12.117] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-24|11:55:14.875] INFO client/client.go:139 start
+[08-24|11:57:32.105] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-24|11:57:34.649] INFO client/client.go:139 start
+[08-24|11:59:49.181] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-24|11:59:51.811] INFO client/client.go:139 start
+[08-24|12:02:44.155] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-24|12:02:46.547] INFO client/client.go:139 start
+[08-24|12:02:48.428] INFO client/client.go:148 create blockchains
+[08-24|12:04:18.146] INFO client/client.go:181 status
